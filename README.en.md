@@ -1,4 +1,4 @@
-<h1 align="center">ChatGPT Web Share</h1>
+<h1 align="center">HiMyGPT Web Share</h1>
 
 <div align="center">
 

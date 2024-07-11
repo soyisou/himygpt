@@ -12,9 +12,8 @@
       </n-button>
     </div>
     <div class="mb-6">
-      <!-- <CWSIcon :color="appStore.theme == 'dark' ? 'white': 'black'" class="w-60" /> -->
       <n-gradient-text :size="32" type="success" class="select-none">
-        ChatGPT● Web Share
+        HiMyGPT● Web Share
       </n-gradient-text>
     </div>
     <n-card embedded class="w-90 p-6 m-6 rounded-lg">
