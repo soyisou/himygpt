@@ -4,7 +4,83 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e9cc82e-424c-4df3-bd27-5ad84ea0a6cb" name="Changes" comment="" />
+    <list default="true" id="8e9cc82e-424c-4df3-bd27-5ad84ea0a6cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/alembic.ini" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/alembic.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/alembic/README" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/alembic/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/alembic/env.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/alembic/env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/alembic/script.py.mako" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/alembic/script.py.mako" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/alembic/versions/0d790c2c26dc_add_uploaded_files_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/alembic/versions/0d790c2c26dc_add_uploaded_files_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/alembic/versions/7d94b5503088_add_extra_info_in_uploadedfileinfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/alembic/versions/7d94b5503088_add_extra_info_in_uploadedfileinfo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/alembic/versions/aa3d85891014_baseline.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/alembic/versions/aa3d85891014_baseline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/conf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/conf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/conf/base_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/conf/base_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/conf/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/conf/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/conf/credentials.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/conf/credentials.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/database/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/database/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/database/custom_types/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/database/custom_types/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/database/custom_types/guid.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/database/custom_types/guid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/database/custom_types/pydantic_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/database/custom_types/pydantic_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/database/custom_types/utc_datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/database/custom_types/utc_datetime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/database/mongodb.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/database/mongodb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/database/sqlalchemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/database/sqlalchemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/enums/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/enums/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/enums/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/enums/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/enums/options.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/enums/options.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/enums/status.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/enums/status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/file_provider.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/file_provider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/globals.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/globals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/middlewares/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/middlewares/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/middlewares/asgi_logger/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/middlewares/asgi_logger/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/middlewares/asgi_logger/middleware.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/middlewares/asgi_logger/middleware.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/middlewares/asgi_logger/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/middlewares/asgi_logger/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/middlewares/request_statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/middlewares/request_statistics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/models/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/models/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/models/doc/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/models/doc/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/models/doc/openai_web_code_interpreter.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/models/doc/openai_web_code_interpreter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/models/json.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/models/json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/models/types.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/models/types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/response.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/routers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/routers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/routers/chat.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/routers/chat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/routers/conv.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/routers/conv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/routers/files.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/routers/files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/routers/logs.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/routers/logs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/routers/status.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/routers/status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/routers/system.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/routers/system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/routers/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/routers/users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/schemas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/schemas/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/schemas/conversation_schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/schemas/conversation_schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/schemas/file_schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/schemas/file_schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/schemas/openai_schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/schemas/openai_schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/schemas/status_schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/schemas/status_schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/schemas/system_schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/schemas/system_schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/schemas/user_schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/schemas/user_schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/sources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/sources/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/sources/openai_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/sources/openai_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/sources/openai_web.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/sources/openai_web.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/api/users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config_templates/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/config_templates/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config_templates/credentials.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/config_templates/credentials.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/logging_config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/logging_config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/utils/admin/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/utils/admin/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/utils/admin/sync_conv.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/utils/admin/sync_conv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/utils/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/utils/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/utils/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-py/utils/logger.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +97,9 @@
       </map>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -29,26 +108,30 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2Z9kGchsKTzX5bM2o97DJuvnenl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Codes/chatgpt-web-share/backend/data/config&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Codes/chatgpt-web-share/backend/data/config",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Codes\chatgpt-web-share\backend\data\config" />
@@ -78,17 +161,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
-        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
       </set>
     </attachedChunks>
   </component>
@@ -107,6 +185,7 @@
       <workItem from="1702269729610" duration="15000" />
       <workItem from="1720637847374" duration="606000" />
       <workItem from="1720707525184" duration="2000" />
+      <workItem from="1722520600899" duration="320000" />
     </task>
     <servers />
   </component>
